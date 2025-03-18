@@ -26,9 +26,10 @@ I'm keen to learn **Full-stack development**. Currenlty pursuing front-end devel
 ### Currently Studying
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### Interested in Studying
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-
 
 ### Personal Record
 <div>
