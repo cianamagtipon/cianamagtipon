@@ -1,4 +1,4 @@
-### Hi there 👋  
+## Hi there 👋  
 
 
 I am Ciana Louisse "Chloe" G. Magtipon. I'm a student in Ateneo De Manila University pursuing BS Computer Science. 
