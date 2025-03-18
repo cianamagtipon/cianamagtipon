@@ -1,9 +1,9 @@
 ### Hi there 👋  
 
 
-I am Ciana Magtipon, "Chloe". I'm a student in Ateneo De Manila University pursuing BS Computer Science. 
+I am Ciana Louisse "Chloe" G. Magtipon. I'm a student in Ateneo De Manila University pursuing BS Computer Science. 
 
-I'm keen to learn **Full-stack development**. Currenlty pursuing front-end development roles as an Intern, and working my way into back-end as soon as possible! 
+I'm keen to learn **Full-stack development**. Currently pursuing front-end development roles as an Intern, and working my way into back-end as soon as possible! 
 
 
 ### Relevant Links & Working Platform
