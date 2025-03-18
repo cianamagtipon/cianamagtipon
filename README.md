@@ -31,6 +31,5 @@ I'm keen to learn **Full-stack development**. Currenlty pursuing front-end devel
 
 ### Personal Record
 <div>
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=cianamagtiponshow_icons=true&hide_border=true&theme=dracula" alt="GitHub stats" style="height: 190px;" />
-  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=cianamagtipon&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" style="height: 190px;" />
+  [![Ciana Magtipon's Stats](https://github-readme-stats.vercel.app/api?username=cianamagtipon)](https://github.com/cianamagtipon/github-readme-stats)
 </div>
