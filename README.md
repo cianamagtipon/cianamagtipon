@@ -31,5 +31,5 @@ I'm keen to learn **Full-stack development**. Currenlty pursuing front-end devel
 
 ### Personal Record
 <div>
-  [![Ciana Magtipon's Stats](https://github-readme-stats.vercel.app/api?username=cianamagtipon)](https://github.com/cianamagtipon/github-readme-stats)
+  [[Ciana Magtipon's Stats](https://github-readme-stats.vercel.app/api?username=cianamagtipon)](https://github.com/cianamagtipon/github-readme-stats)
 </div>
