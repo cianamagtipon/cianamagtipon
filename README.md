@@ -32,6 +32,6 @@ I am Ciana Louisse "Chloe" G. Magtipon. I'm a student in Ateneo De Manila Univer
 
 ## Personal Record
 <div>
-  <img align=top src="https://github-readme-stats.vercel.app/api?username=cianamagtipon&show_icons=true&hide_border=true&theme=dracula" alt="GitHub stats" style="height: 190px;" />
+<!--   <img align=top src="https://github-readme-stats.vercel.app/api?username=cianamagtipon&show_icons=true&hide_border=true&theme=dracula" alt="GitHub stats" style="height: 190px;" /> -->
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=cianamagtipon&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" style="height: 190px;" />
 </div>
