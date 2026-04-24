@@ -1,7 +1,9 @@
 ## Hi there 👋  
 
 
-I’m Ciana Louisse “Chloe” G. Magtipon, a Computer Science student at Ateneo de Manila University. I mostly dabble in frontend development and web design, with a focus on crafting clean and user-friendly interfaces. From time to time, I also create game assets as a creative outlet. I love learning new things and am always looking for ways to grow, both technically and creatively.
+I’m Ciana Louisse “Chloe” G. Magtipon, a Computer Science student at Ateneo de Manila University. I mostly dabble in frontend development and web design, focusing mainly on crafting clean and user-friendly interfaces. From time to time, I also create game assets as a creative outlet! 
+
+I love learning new things and am always looking for ways to grow, both technically and creatively!
 
 
 ## Relevant Links & Working Platform
